@@ -9,6 +9,8 @@ This code assisted in the study of associations or relationships and patterns di
 The data made available by the delegation of public health in Cameroon for this study was not sufficient and so the author had to generate synthetic data with a 
 larger number of records. A compararison was made between the result of the study from the synthetic data and the original data and the results were found to be highly similar and correlated. 
 
+The programming Language used in this study is R. 
+
 # Project Abstract: 
 Non-data mining techniques have been used to analyze malaria data and public health strategies have
 been implemented based on these analyses to limit the impact of malaria. However, malaria is still
